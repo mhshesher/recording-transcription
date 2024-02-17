@@ -1,0 +1,6 @@
+pyannote.audio
+transformers
+torch
+pydub
+datasets
+ffmpeg
